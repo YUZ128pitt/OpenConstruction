@@ -1,4 +1,4 @@
-### OpenConstruction
+# OpenConstruction
 
 [Ruoxin Xiong](https://www.linkedin.com/in/ruoxin-xiong-56773815b/), [Yuansheng Zhu](https://sites.google.com/view/yuz128/home), [Yanyu Wang](https://www.linkedin.com/in/yanyu-wang-984bb61b7/), [Pengkun Liu](https://www.linkedin.com/in/pengkunliu/), and [Pingbo Tang](https://sites.google.com/site/tangpingbo/)
 
@@ -13,30 +13,30 @@ This is the offecial implementtaion of paper "Facilitating Construction Scene Un
 ## Demo
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
 
-# Data preparation and proprecessing
+## Data preparation and proprecessing
 
-## ACID
+### ACID
 [Source](https://www.acidb.ca/)
 Description: 10 categories of construction machines, 10,000 labeled images
 15,767 construction machine objects
 Category: Mobile Crane; Tower Crane; Concrete Mixer Truck (Concrete mixer); Backhoe Loader; Wheel Loader (Wheeled loader); Compactor (roller); Dozer (Tractor-dozer); Dump truck (Dumper); Excavator; Grader
 
-## SODA
+### SODA
 [Source](https://scut-scet-academic.oss-cn-guangzhou.aliyuncs.com/SODA/2022.2/VOCv1.zip) 
 Description: 19,846 images in the dataset and 15 categories of objects
 Category: person (worker), helmet, vest, board, wood, rebar, brick, scaffold, handcart, cutter, ebox, hopper, hook, fence, slogan
 
-## MOCS
+### MOCS
 [Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 Description: 41,668 images in the dataset and 13 categories of objects
 Category: Worker, Tower crane, Hanging hook (hook), Vehicle crane (Mobile Crane), Roller, Bulldozer, Excavator, Truck, Loader, Pump truck, Concrete transport Mixer (Concrete mixer), Pile driver (Pile driver), Other vehicle.
 
 
 
-# Running enviorment
+## Running enviorment
 This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/mmdetection), please follow their installation instruction.
 
-# Training and testing
+## Training and testing
 
-# Acknowledgements
+## Acknowledgements
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
