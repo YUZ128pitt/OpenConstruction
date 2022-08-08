@@ -16,20 +16,17 @@ This is the offecial implementtaion of paper "Facilitating Construction Scene Un
 ## Data preparation and proprecessing
 
 ### ACID
-[Source](https://www.acidb.ca/)
 Description: 10 categories of construction machines, 10,000 labeled images
 15,767 construction machine objects
-Category: Mobile Crane; Tower Crane; Concrete Mixer Truck (Concrete mixer); Backhoe Loader; Wheel Loader (Wheeled loader); Compactor (roller); Dozer (Tractor-dozer); Dump truck (Dumper); Excavator; Grader
+Category: Mobile Crane; Tower Crane; Concrete Mixer Truck (Concrete mixer); Backhoe Loader; Wheel Loader (Wheeled loader); Compactor (roller); Dozer (Tractor-dozer); Dump truck (Dumper); Excavator; Grader. [Source](https://www.acidb.ca/)
 
 ### SODA
-[Source](https://scut-scet-academic.oss-cn-guangzhou.aliyuncs.com/SODA/2022.2/VOCv1.zip) 
 Description: 19,846 images in the dataset and 15 categories of objects
-Category: person (worker), helmet, vest, board, wood, rebar, brick, scaffold, handcart, cutter, ebox, hopper, hook, fence, slogan
+Category: person (worker), helmet, vest, board, wood, rebar, brick, scaffold, handcart, cutter, ebox, hopper, hook, fence, slogan. [Source](https://scut-scet-academic.oss-cn-guangzhou.aliyuncs.com/SODA/2022.2/VOCv1.zip) 
 
 ### MOCS
-[Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 Description: 41,668 images in the dataset and 13 categories of objects
-Category: Worker, Tower crane, Hanging hook (hook), Vehicle crane (Mobile Crane), Roller, Bulldozer, Excavator, Truck, Loader, Pump truck, Concrete transport Mixer (Concrete mixer), Pile driver (Pile driver), Other vehicle.
+Category: Worker, Tower crane, Hanging hook (hook), Vehicle crane (Mobile Crane), Roller, Bulldozer, Excavator, Truck, Loader, Pump truck, Concrete transport Mixer (Concrete mixer), Pile driver (Pile driver), Other vehicle.[Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 
 
 
