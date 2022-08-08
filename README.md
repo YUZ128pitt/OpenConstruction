@@ -13,7 +13,7 @@ This is the offecial implementtaion of paper "Facilitating Construction Scene Un
 ## Demo
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
 
-## Data preparation and proprecessing
+## Data preparation and prprecessing
 
 ### ACID
 Description: 10 categories of construction machines, 10,000 labeled images
