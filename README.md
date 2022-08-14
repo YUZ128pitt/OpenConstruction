@@ -10,7 +10,6 @@ This is the official implementation of the paper "Facilitating Construction Scen
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43504654/183323676-1d70bd4c-3282-489c-9239-5d48d8f6df61.png" width=50% height=50%>
-  <sup>Informativeness-based lifelong construction resource detection framework
 </p>
 
 ## Demo
