@@ -15,11 +15,11 @@ This is the offecial implementtaion of paper "Facilitating Construction Scene Un
 ## Demo
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
 
-## Data preparation and prprecessing
+## Data preparation and processing
 
 ### ACID
 - Description: 10 categories of construction machines, 10,000 labeled images, 15,767 construction machine objects
-- Category: Mobile Crane; Tower Crane; Concrete Mixer Truck; Backhoe Loader; Wheel Loader; Compactor; Dozer; Dump truck; Excavator; Grader
+- Category: Mobile crane; Tower crane; Concrete mixer truck; Backhoe loader; Wheel loader; Compactor; Dozer; Dump truck; Excavator; Grader
 - [Source](https://www.acidb.ca/)
 
 ### SODA
