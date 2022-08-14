@@ -8,7 +8,7 @@ This is the offecial implementtaion of paper "Facilitating Construction Scene Un
 
 **Abstruct**：Automatically recognizing diverse construction resources (e.g., workers and equipment) from construction scenes supports efficient and intelligent workplace management. Previous studies have focused on identifying static and limited object categories, which are inefficient and unscalable for continuously learning from various construction scenarios. This work proposed a novel lifelong construction resource detection framework for continuously learning from dynamic changing construction contexts without catastrophically forgetting previous knowledge. In particular, we contribute: (1) a hierarchical OpenConstruction Taxonomy, unifying heterogeneous label space from various construction scenarios; (2) an OpenConstruction Dataset with 31 unique construction object categories, integrating three large datasets for validating lifelong object detection algorithms; and (3) a new informativeness-based lifelong construction resource detector by leveraging limited and informative instances in previous tasks. We train and evaluate the proposed method on the OpenConstruction Dataset in sequential data streams and show mAP improvement on the overall task.
 
-![overview2](https://user-images.githubusercontent.com/43504654/183323676-1d70bd4c-3282-489c-9239-5d48d8f6df61.png)
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/43504654/183323676-1d70bd4c-3282-489c-9239-5d48d8f6df61.png)" width=50% height=50%>
 
 ## Demo
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
