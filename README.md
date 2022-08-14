@@ -34,10 +34,10 @@ This is the official implementation of the paper "Facilitating Construction Scen
 
 
 
-## Running enviorment
+## Running environment
 This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
 ## Training and testing
 
-## Acknowledgements
+## Acknowledgments
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
