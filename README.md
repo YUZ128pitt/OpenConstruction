@@ -39,9 +39,11 @@ Please downloaded the cleaned annotation and trained object detector in [Drive](
 This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
 ## Training and testing
--Step 1 download the config files and put it under the config folder under mmdetection.
--Step 2 modify the file path in the config files.
--run src/run_openconstruction_lifelong.sh 
+-Step 1: download the config files and put it under the config folder under mmdetection.
+
+-Step 2: modify the file path in the config files.
+
+-Step 3: run src/run_openconstruction_lifelong.sh 
 
 ## Acknowledgments
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
