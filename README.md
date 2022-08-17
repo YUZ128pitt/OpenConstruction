@@ -32,12 +32,16 @@ This is the official implementation of the paper "Facilitating Construction Scen
 - Category: Worker; Tower crane; Hanging hook; Vehicle crane; Roller; Bulldozer; Excavator; Truck; Loader; Pump truck; Concrete transport mixer; Pile driver; Other vehicle
 - [Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 
-
+### Pre-processing
+Please downloaded the cleaned annotation and trained object detector in [Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
 
 ## Running environment
 This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
 ## Training and testing
+-Step 1 download the config files and put it under the config folder under mmdetection.
+-Step 2 modify the file path in the config files.
+-run src/run_openconstruction_lifelong.sh 
 
 ## Acknowledgments
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
