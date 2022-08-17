@@ -45,5 +45,7 @@ This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/
 
 -Step 3: run src/run_openconstruction_lifelong.sh 
 
+-Step 4: enjoy^-^! Please cite our work if you found it helpful and contact us at yz7008@rit.edu if there is any issue.
+
 ## Acknowledgments
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
