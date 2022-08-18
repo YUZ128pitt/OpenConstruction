@@ -6,7 +6,7 @@ This is the official implementation of the paper "Facilitating Construction Scen
 
 ## Introduction
 
-**Abstract**：Automatically recognizing diverse construction resources (e.g., workers and equipment) from construction scenes supports efficient and intelligent workplace management. Previous studies have focused on identifying static and limited object categories, which are inefficient and unscalable for continuously learning from various construction scenarios. This work proposed a novel lifelong construction resource detection framework for continuously learning from dynamic changing construction contexts without catastrophically forgetting previous knowledge. In particular, we contribute: (1) a hierarchical OpenConstruction Taxonomy, unifying heterogeneous label space from various construction scenarios; (2) an OpenConstruction Dataset with 31 unique construction object categories, integrating three large datasets for validating lifelong object detection algorithms; and (3) a new informativeness-based lifelong construction resource detector by leveraging limited and informative instances in previous tasks. We train and evaluate the proposed method on the OpenConstruction Dataset in sequential data streams and show mAP improvement on the overall task.
+Automatically recognizing diverse construction resources (e.g., workers and equipment) from construction scenes supports efficient and intelligent workplace management. This work proposed a novel lifelong construction resource detection framework for continuously learning from dynamic changing construction contexts without catastrophically forgetting previous knowledge.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43504654/183323676-1d70bd4c-3282-489c-9239-5d48d8f6df61.png" width=50% height=50%>
@@ -33,17 +33,17 @@ This is the official implementation of the paper "Facilitating Construction Scen
 - [Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 
 ### Pre-processing
-Please downloaded the cleaned annotation and trained object detector in [Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
+Please downloaded the cleaned annotation and trained object detector in [Google Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
 
 ## Running environment
-This repro is largely based on the [MMdetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
+This repro is largely based on the [MMDetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
 ## Training and testing
 -Step 1: download the config files and put it under the config folder under mmdetection.
 
 -Step 2: modify the file path in the config files.
 
--Step 3: run src/run_openconstruction_lifelong.sh 
+-Step 3: run `src/run_openconstruction_lifelong.sh` 
 
 -Step 4: enjoy^-^! Please cite our work if you found it helpful and contact us at yz7008@rit.edu if there is any issue.
 
