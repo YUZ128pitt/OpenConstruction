@@ -33,19 +33,19 @@ Automatically recognizing diverse construction resources (e.g., workers and equi
 - [Source](http://www.anlab340.com/Archives/IndexArctype/index/t_id/17.html)
 
 ### Pre-processing
-Please downloaded the cleaned annotation and trained object detector in [Google Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
+Please download the cleaned annotation and trained object detector in [Google Drive](https://drive.google.com/drive/folders/19cs93K78MqXO-uCOLhABv0xRhuJ3sVBP?usp=sharing)
 
 ## Running environment
-This repro is largely based on the [MMDetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
+This repo is largely based on the [MMDetection2](https://github.com/open-mmlab/mmdetection). Please follow their installation instruction.
 
 ## Training and testing
--Step 1: download the config files and put it under the config folder under mmdetection.
+- Step 1: download the config files and put it under the config folder under mmdetection.
 
--Step 2: modify the file path in the config files.
+- Step 2: modify the file path in the config files.
 
--Step 3: run `src/run_openconstruction_lifelong.sh` 
+- Step 3: run `src/run_openconstruction_lifelong.sh` 
 
--Step 4: enjoy^-^! Please cite our work if you found it helpful and contact us at yz7008@rit.edu if there is any issue.
+- Step 4: enjoy^-^! Please cite our work if you found it helpful and contact us at yz7008@rit.edu if there is any issue.
 
 ## Acknowledgments
 We sincerely thank [Anlab](http://www.anlab340.com), [AIRCon-Lab](https://profsckang.wixsite.com/uofa-rlab), and [Mechanics Computing and Simulation Laboratory](https://linjiarui.net/en/) for providing the datasets.  
