@@ -16,6 +16,7 @@ Automatically recognizing diverse construction resources (e.g., workers and equi
 ![vis.pdf](https://github.com/YUZ128pitt/OpenConstruction/files/9278163/vis.pdf)
 
 ## Data preparation and processing
+Please download the datasets from their official website under licensed permissions.
 
 ### ACID
 - Description: 10 categories of construction machines, 10,000 labeled images, 15,767 construction machine objects
